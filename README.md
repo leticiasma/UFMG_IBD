@@ -1,1 +1,1 @@
-# UFMG_IBD
+# UFMG_Introducao_a_Banco_de_Dados
